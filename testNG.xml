@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="Simple Suite">
+    <test name="Register">
+        <classes>
+            <class name="ge.automation.AppTest"/>
+        </classes>
+    </test>
+</suite>
