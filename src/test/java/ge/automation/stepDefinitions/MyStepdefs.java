@@ -5,7 +5,6 @@ import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import org.testng.Assert;
-
 public class MyStepdefs {
     @Given("The user is on the login page")
     public void theUserIsOnTheLoginPage() {
